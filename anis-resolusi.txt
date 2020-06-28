@@ -1,3 +1,4 @@
 ANIS RESOLUSI
 - Belajar coding
 - Membuat web development
+- Membuat web portfolio
